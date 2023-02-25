@@ -5,7 +5,6 @@ go 1.16
 require (
 	github.com/Azure/go-ansiterm v0.0.0-20170929234023-d6e3b3328b78 // indirect
 	github.com/BurntSushi/toml v0.3.1 // indirect
-	github.com/CanalTP/gonavitia v0.0.0-20180817052458-0dcb887a472b
 	github.com/CanalTP/gonavitia v0.0.0-20210706131440-9f82886aa540
 	github.com/CanalTP/gormungandr/kraken v0.1.0
 	github.com/Microsoft/go-winio v0.4.7 // indirect
@@ -52,8 +51,7 @@ require (
 	github.com/streadway/amqp v0.0.0-20180315184602-8e4aba63da9f // indirect
 	github.com/stretchr/testify v1.3.0
 	github.com/ugorji/go v0.0.0-20180112141927-9831f2c3ac10 // indirect
-	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4 // indirect
-	golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	gopkg.in/DATA-DOG/go-sqlmock.v1 v1.3.0
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/validator.v8 v8.18.2 // indirect
